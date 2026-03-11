@@ -51,3 +51,4 @@ Pushing to `main` triggers a GitHub Actions workflow that compiles the PDF and d
 | 12 | Results: time saved & consistency |
 | 13 | Technical architecture |
 | 14 | Q&A / Contact |
+
